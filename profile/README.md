@@ -2,7 +2,7 @@
 
 # Bogdanoff Twin
 
-> The call has been made 📞. The subscription is being dumped. 📉
+> The call has been made. 📞 The subscription is being dumped. 📉
 
 ## Buy the dip
 
