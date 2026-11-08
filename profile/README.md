@@ -2,7 +2,6 @@
 
 # Bogdanoff Twin
 
-> Ring ring. Somebody just paid for a Pine Script cloud compiler.
 > The call has been made 📞. The subscription is being dumped. 📉
 
 ## Buy the dip
