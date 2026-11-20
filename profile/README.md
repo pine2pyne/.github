@@ -46,12 +46,6 @@ You get CSV files with every `plot()` value per bar, and for a strategy the list
 | Pine Script v5 | full language; `var`, strict `and`/`or`, three-state `bool`, `switch` values |
 | Pine Script v4 | `study()`, unprefixed functions (`sma`, `rsi`, `security`), `transp`, `iff`, `input(..., type=)` |
 
-## Limitations
-
-- Libraries are not downloaded from TradingView: convert the library's source yourself to `scripts/lib/<Publisher>/<Name>/v<N>.py`.
-- `request.security` needs candle data for every symbol and timeframe the script requests.
-- The transpiler reproduces Pine semantics as faithfully as it can, but it does not run your script on TradingView: compare a few bars of your own output before trusting a backtest.
-
 ## FAQ
 
 **Can I run Pine Script outside TradingView?** Yes: convert it with pine2pyne and run the Python on PyneCore, locally or on a server.
