@@ -1,6 +1,8 @@
 <img align="right" height="75px" src="../images/image.png">
 
-# 🌲 Pine Script to Python transpiler (TradingView v4 / v5 / v6 to PyneCore)
+# 🌲 Pine Script to Python transpiler
+
+> TradingView v4 / v5 / v6 to PyneCore
 
 **pine2pyne** converts TradingView **Pine Script** indicators, strategies and libraries into **Python** scripts for the open-source [PyneCore](https://pynecore.org) runtime, so you can **backtest TradingView strategies offline**, on your own candles, without a TradingView account, a chart, an API key or a compile quota. It is a free, open-source (Apache-2.0) **Pine Script to Python converter** that runs on your machine: a real compiler front end for Pine Script v4, v5 and v6, not a regex translator and not an online service.
 
